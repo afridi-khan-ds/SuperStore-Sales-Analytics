@@ -45,7 +45,7 @@ SuperStore-Sales-Analytics
 
 • Data  
   - raw  
-    - SuperStore_Sales_Dataset.csv  
+    - raw_superstore_sales_datasets.csv  
   - processed  
     - cleaned_superstore_sales.csv  
 
